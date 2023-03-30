@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-templ/static/css/main.7acaea2f.css",
+    "main.js": "/react-templ/static/js/main.07d3183d.js",
+    "index.html": "/react-templ/index.html",
+    "main.7acaea2f.css.map": "/react-templ/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-templ/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
